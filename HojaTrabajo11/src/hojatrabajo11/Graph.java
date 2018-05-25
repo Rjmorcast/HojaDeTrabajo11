@@ -15,7 +15,7 @@ import java.util.Set;
  * @author alber
  */
 public class Graph {
-     private HashMap<String, Vertex> vertices;
+    private HashMap<String, Vertex> vertices;
     private HashMap<Integer, Edge> edges;
     
     public Graph(){

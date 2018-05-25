@@ -1,5 +1,5 @@
-Jocotillo Antigua 80KM
-Capital Chinautla 5KM
-Capital SanCristobal 20KM
-Jocotillo Capital 170KM
-Capital Antigua 27KM
+Jocotillo Antigua 80
+Capital Chinautla 5
+Capital SanCristobal 20
+Jocotillo Capital 170
+Capital Antigua 27

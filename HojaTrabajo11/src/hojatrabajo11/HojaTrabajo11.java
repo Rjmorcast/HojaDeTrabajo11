@@ -5,6 +5,8 @@
  */
 package hojatrabajo11;
 
+import java.io.IOException;
+
 /**
  *
  * @author alber
@@ -14,8 +16,9 @@ public class HojaTrabajo11 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // TODO code application logic here
+        GuatemalaGraph n = new GuatemalaGraph();
     }
     
 }
