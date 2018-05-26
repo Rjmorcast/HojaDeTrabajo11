@@ -118,8 +118,14 @@ public class Graph {
      * @param vertex The Vertex to look up
      * @return true iff this Graph contains vertex
      */
-    public boolean containsVertex(Vertex vertex){
-        return this.vertices.get(vertex.getLabel()) != null;
+    public boolean containsVertex(String vertex){
+        if (this.vertices.get(vertex) != null ){
+            return true;
+        } else {
+            return false;}
+        
+       
+                //!= null;
     }
     
     /**

@@ -22,6 +22,7 @@ public class Vertex {
     public Vertex(String label){
         this.label = label;
         this.neighborhood = new ArrayList<Edge>();
+        
     }
     
     
